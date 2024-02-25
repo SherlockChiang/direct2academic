@@ -1,0 +1,28 @@
+[
+  {
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      "domain:cell.com",
+      "domain:nature.com",
+      "domain:optica.org",
+      "domain:springer.com",
+      "domain:ieee.org",
+      "domain:science.org",
+      "domain:sciencedirect.com",
+      "domain:apa.org",
+      "domain:sciencedirectassets.com",
+      "domain:sagepub.com",
+      "domain:wiley.com",
+      "domain:cnki.net",
+      "domain:sagepub.com",
+      "domain:pubmed.ncbi.nlm.nih.gov",
+      "domain:webofscience.com",
+      "domain:hathitrust.org",
+      "domain:proquest.com",
+      "domain:annualreviews.org"
+    ],
+    "process": [],
+    "enabled": true
+  }
+]
