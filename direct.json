@@ -1,5 +1,6 @@
 [
   {
+    "port": "",
     "outboundTag": "direct",
     "ip": [],
     "domain": [
@@ -20,9 +21,10 @@
       "domain:webofscience.com",
       "domain:hathitrust.org",
       "domain:proquest.com",
-      "domain:annualreviews.org"
-    ],
-    "process": [],
-    "enabled": true
+      "domain:annualreviews.org",
+      "domain:plos.org",
+      "domain:nlm.nih.gov",
+      "domain:ingentaconnect.com"
+    ]
   }
 ]
